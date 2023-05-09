@@ -1,0 +1,15 @@
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\bin\Debug\net7.0\hedgehog.exe
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\bin\Debug\net7.0\hedgehog.deps.json
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\bin\Debug\net7.0\hedgehog.runtimeconfig.json
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\bin\Debug\net7.0\hedgehog.dll
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\bin\Debug\net7.0\hedgehog.pdb
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\hedgehog.csproj.AssemblyReference.cache
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\hedgehog.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\hedgehog.AssemblyInfoInputs.cache
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\hedgehog.AssemblyInfo.cs
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\hedgehog.csproj.CoreCompileInputs.cache
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\hedgehog.dll
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\refint\hedgehog.dll
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\hedgehog.pdb
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\hedgehog.genruntimeconfig.cache
+D:\VisualStudioCode\testWork-08-05-23\hedgehog\obj\Debug\net7.0\ref\hedgehog.dll
